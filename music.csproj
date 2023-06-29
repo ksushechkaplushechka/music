@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="back.png" />
+    <None Remove="mix.png" />
+    <None Remove="next.png" />
+    <None Remove="play.jpg" />
+    <None Remove="repeat.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="WindowsAPICodePack-Shell" Version="1.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="back.png" />
+    <Resource Include="mix.png" />
+    <Resource Include="next.png" />
+    <Resource Include="play.jpg" />
+    <Resource Include="repeat.png" />
+  </ItemGroup>
+
+</Project>

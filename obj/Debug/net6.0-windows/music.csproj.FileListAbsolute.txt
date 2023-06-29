@@ -1,0 +1,5 @@
+C:\Users\porfi\source\repos\music\obj\Debug\net6.0-windows\music.csproj.AssemblyReference.cache
+C:\Users\porfi\source\repos\music\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\porfi\source\repos\music\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\porfi\source\repos\music\obj\Debug\net6.0-windows\music_MarkupCompile.cache
+C:\Users\porfi\source\repos\music\obj\Debug\net6.0-windows\music_MarkupCompile.lref
